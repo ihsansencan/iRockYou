@@ -3,7 +3,7 @@
 
 iRockYou contains edits, converters and filters for `rockyou.txt` and `other lists`.
 
-* 1) convert_md5.php
+* convert_md5.php
 ```bash
 root@ihsan:~/Desktop# php convert_md5.php > new_md5.txt
 root@ihsan:~/Desktop# cat new_md5.txt
@@ -17,7 +17,7 @@ password:5f4dcc3b5aa765d61d8327deb882cf99
 root@ihsan:~/Desktop#
 ```
 
-* 2) hash_find.php
+* hash_find.php
 ```
 root@ihsan:~/Desktop# php hash_find.php
 .............................................................
