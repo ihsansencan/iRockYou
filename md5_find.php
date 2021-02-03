@@ -24,4 +24,5 @@ root@ihsan:~/Desktop# php hash_find.php
 .............................................................
 ===================> princess1
 root@ihsan:~/Desktop#
+*/
 ?>
