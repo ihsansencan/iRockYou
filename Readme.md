@@ -1,5 +1,4 @@
 # # iRockYou
-* * *
 
 iRockYou contains edits, converters and filters for `rockyou.txt` and `other lists`.
 
